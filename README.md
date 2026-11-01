@@ -110,3 +110,12 @@ Please cite the dataset using [CITATION.cff](CITATION.cff):
 > Curify (2026). *DRAFT-Bench: Design Reliability Across Feedback and Tasks*. Open data release v0.1.0. https://github.com/super-inbox/agentic-generation-benchmark
 
 Maintained by [Curify](https://curify-ai.com). The accompanying research paper is a working draft; this repository does not claim an arXiv identifier or conference acceptance.
+
+## About Curify
+
+[Curify AI](https://curify-ai.com) builds the **deterministic production layer above foundation models** — reliable, traceable, enterprise-grade pipelines, not a prompt wrapper. Our products span two lines:
+
+- **Enterprise AI** — an industrial-grade multimodal content engine + enterprise **document intelligence** (RAG with mandatory source citation, structured extraction, on-premise; *deterministic · traceable · data stays yours*).
+- **AI-Native Product** — creator / SMB-facing generation at [curify-ai.com](https://curify-ai.com): MBTI character cards, prompt-template galleries, one-click on-brand visual assets, multilingual video, dubbing & bilingual subtitles.
+
+**Links** · Website: [curify-ai.com](https://curify-ai.com) · [LinkedIn](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/)
