@@ -10,3 +10,15 @@ url: "https://github.com/super-inbox/agentic-generation-benchmark"
 repository-code: "https://github.com/super-inbox/agentic-generation-benchmark"
 license: CC-BY-4.0
 abstract: "Authored design-workflow and requirement-elicitation benchmark data, project-owned input fixtures, and archived evidence for studying general-purpose agent reliability. The data release includes offline RFQ score replay; it does not supply expert acceptance labels."
+references:
+  - type: article
+    title: "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle"
+    authors:
+      - family-names: "Pan"
+        given-names: "Rong"
+      - family-names: "Wang"
+        given-names: "Jianqiang"
+    journal: "arXiv preprint arXiv:2611.08933"
+    year: 2026
+    doi: "10.48550/arXiv.2611.08933"
+    url: "https://arxiv.org/abs/2611.08933"

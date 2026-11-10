@@ -2,6 +2,8 @@
 
 **Design Reliability Across Feedback and Tasks** — open benchmark data for studying whether general-purpose agents carry design requirements through revisions and deliver verifiable work.
 
+**Paper:** [DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle](https://arxiv.org/abs/2611.08933) (arXiv:2611.08933)
+
 This is the successor to **Agentic Generation Benchmark**. The repository URL stays the same; the earlier [VIR production-image archive](https://github.com/super-inbox/agentic-generation-benchmark/tree/main/data/2026-08-03-production-gemini) remains available as a separate dataset.
 
 **Runnable toolkit v0.2.0 · October 29, 2026**, using the unchanged **v0.1.0 frozen data**. Run all 43 public design conditions and 40 RFQ scenarios with your own agent, then evaluate with a configured Gemini API key. This software release adds no empirical model results or expert labels. [中文说明](README.zh-CN.md) · [Run guide](docs/RUNNING.md) · [Dataset card](DATA_CARD.md) · [Protocol](docs/PROTOCOL.md)
@@ -105,11 +107,26 @@ Contributions should preserve candidate/evaluator boundaries, record attempts an
 
 Data, authored protocols and input fixtures: **CC BY 4.0**, attributed to Curify; see [LICENSE](LICENSE) and [asset provenance](DATA_CARD.md#provenance-and-rights). New Python code: **MIT**, see [LICENSE-CODE](LICENSE-CODE). Public-source task patterns are paraphrased; the new release does not redistribute the original third-party media.
 
+Please cite the paper:
+
+```bibtex
+@misc{pan2026draftbench,
+  title         = {{DRAFT-Bench}: Evaluating Frontier Agents Across the Professional Design Lifecycle},
+  author        = {Rong Pan and Jianqiang Wang},
+  year          = {2026},
+  eprint        = {2611.08933},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SE},
+  doi           = {10.48550/arXiv.2611.08933},
+  url           = {https://arxiv.org/abs/2611.08933}
+}
+```
+
 Please cite the dataset using [CITATION.cff](CITATION.cff):
 
 > Curify (2026). *DRAFT-Bench: Design Reliability Across Feedback and Tasks*. Open data release v0.1.0. https://github.com/super-inbox/agentic-generation-benchmark
 
-Maintained by [Curify](https://curify-ai.com). The accompanying research paper is a working draft; this repository does not claim an arXiv identifier or conference acceptance.
+Maintained by [Curify](https://curify-ai.com). The accompanying paper is an arXiv preprint, [arXiv:2611.08933](https://arxiv.org/abs/2611.08933); this repository does not claim conference acceptance.
 
 ## About Curify
 

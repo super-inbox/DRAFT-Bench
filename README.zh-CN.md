@@ -2,6 +2,8 @@
 
 **Design Reliability Across Feedback and Tasks**：研究通用 Agent 能否在设计任务中落实需求、处理修改与保留要求，并提供可以核验的交付证据。
 
+**论文：** [DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle](https://arxiv.org/abs/2611.08933)（arXiv:2611.08933）
+
 本仓库由原 Agentic Generation Benchmark 升级，保留仓库地址与历史 VIR 数据。当前为 **v0.2.0 可运行工具包（2026-10-29）**，沿用冻结的 v0.1.0 数据。现已提供任务运行、在线评价与 JSON/CSV 汇总；本次软件发布没有新增实证模型结果或人工标签。
 
 ## 本次实际公开的内容
